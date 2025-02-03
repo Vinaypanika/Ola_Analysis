@@ -1,4 +1,4 @@
-# Ola_Analysis
+# SQL-Indore-Ola-Ride-Analysis
 
 ### prompt use to create dataset using chatgpt
 Please create a spreadsheet with 1 lac rows, for indore city, give the following columns.  
